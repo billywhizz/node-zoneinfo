@@ -36,6 +36,6 @@ A collection of tools for dealing with tzinfo database in node.js
 
 # More Info
 
-http://en.wikipedia.org/wiki/Tz_database
-http://www.twinsun.com/tz/tz-link.htm
-http://linux.about.com/library/cmd/blcmdl5_tzfile.htm
+- http://en.wikipedia.org/wiki/Tz_database
+- http://www.twinsun.com/tz/tz-link.htm
+- http://linux.about.com/library/cmd/blcmdl5_tzfile.htm
