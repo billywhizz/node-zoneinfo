@@ -4,8 +4,6 @@ A collection of tools for dealing with tzinfo database in node.js
 
 # Usage
 
-## see example.js
-
 var fs = require("fs");
 var tz = require("./lib/zoneinfo");
 
