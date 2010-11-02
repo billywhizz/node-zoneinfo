@@ -6,7 +6,6 @@ A collection of tools for dealing with tzinfo database in node.js
 
 ## see example.js
 
-<code>
 var fs = require("fs");
 var tz = require("./lib/zoneinfo");
 
@@ -36,7 +35,6 @@ var log = fs.createReadStream(zonefile, {
 log.addListener("data", function(buffer, start, end) {
 	parser.execute(buffer, start, end);
 });
-</code>
 
 # More Info
 
